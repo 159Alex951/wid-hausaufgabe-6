@@ -1,11 +1,9 @@
-import Typography from "@mui/material/Typography";
+import UI from "./UI";
 
 function App() {
   return (
     <div>
-      <Typography variant="h1" gutterBottom>
-        Kokain :)
-      </Typography>
+      <UI />
     </div>
   );
 }
